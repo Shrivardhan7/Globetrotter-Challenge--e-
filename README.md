@@ -1,3 +1,54 @@
+# Open VS Code.
+# Open the terminal in VS Code
+
+mkdir e
+cd e
+
+download and install node.js
+
+# open file location of node.js
+
+then copy it and then open the "edit the system environment variable.
+then go to environment variables to system variables then select path add new add the file.
+copy paste it.
+
+then in terminal 
+
+run 
+
+npm init -y
+
+npm install express mongoose dotenv cors
+
+please check GitHub files for projects 
+
+well I did not got time for creating following files
+
+missing or wanted (trivia)
+
+server.js , db.js , destinationModel.js , destinationController.js , destinationRoutes.js , .env .
+
+then npm start 
+ http://localhost:5000.
+
+npx create-react-app frontend 
+
+cd frontend 
+npm install axios react-router-dom
+
+in src folder 
+game.js
+app.js
+index.js
+
+then "proxy": "http://localhost:5000",
+
+then in front end folder run 
+# npm start
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
